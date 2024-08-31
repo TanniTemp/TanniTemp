@@ -3,9 +3,9 @@
 Welcome to my temporary GitHub portfolio. While my main account is currently flagged, I've created this account to showcase some of my top projects. These repositories reflect my expertise in 
 web development, full-stack engineering, and problem-solving.
 
-### 🔒 Proof of Flagged Account
+### 🔒 Flagged Main Account
 
-Here's a screenshot showing that my main GitHub account is currently flagged:
+Here's a screenshot of my main account
 
 ![Flagged Account](./image.png)
 
