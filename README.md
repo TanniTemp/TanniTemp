@@ -32,7 +32,7 @@ Here's a screenshot of my main account
   - Integrated **Uploadthing** to handle file uploads, allowing users to easily upload and store images within the chat. This integration simplifies the process of managing media content and ensures smooth handling of file uploads.
   - Utilized **Supabase** for the backend, managing real-time communication, user data, and storage efficiently, providing a robust and scalable solution.
 
-#### 3. **DSA Preparation Sheet**
+#### 3. **DSA Preparation Sheet(Nakli-code)**
 - **Description:**  
   A comprehensive preparation sheet for data structures and algorithms (DSA), curated from various sources to assist in DSA preparation. The project allows users to filter questions based on difficulty, company, and tags, and includes a search feature to easily find specific questions.
 - **Tech Stack:**  
