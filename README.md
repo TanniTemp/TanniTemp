@@ -1,64 +1,26 @@
-# Hi there 👋, I'm Tanishk Dhaka!
+# Tanishk
 
-Welcome to my temporary GitHub portfolio. While my main account is currently flagged, I've created this account to showcase some of my top projects. These repositories reflect my expertise in 
-web development, full-stack engineering, and problem-solving.
+🚀 Passionate developer based in **Delhi, India**.
 
-### 🔒 Flagged Main Account
+📧 Reach me at: [er.tanishkdhaka@gmail.com]
 
-Here's a screenshot of my main account
+## Tech Stack
 
-![Flagged Account](./image.png)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+## Footer
 
-### 🚀 Featured Projects
-
-#### 1. **Portfolio Website**
-- **Description:**  
-  This is my personal portfolio website, designed to showcase my skills, projects, and professional experience. The website is fully responsive, with a clean and modern design, ensuring a seamless user experience across all devices.
-- **Tech Stack:**  
-  Next.js, React, Tailwind CSS, TypeScript
-- **Key Contributions:**  
-  - Designed the website with a minimalist approach, ensuring a clean and modern user interface that effectively highlights projects without unnecessary distractions.
-  - Ensured full responsiveness, providing a seamless experience across all devices, including mobile phones, tablets, and desktops.
-
-
-#### 2. **Chat Group/Forum**
-- **Description:**  
-  A user-friendly chat group or forum where users can join by simply entering a name—no login required. This project facilitates easy and quick communication, ideal for casual discussions or community interactions.
-- **Tech Stack:**  
-  Next.js, React, Supabase, Uploadthing
-- **Key Contributions:**  
-  - Enabled a seamless entry process by allowing users to join the chat by just providing a name, reducing barriers to participation.
-  - Integrated **Uploadthing** to handle file uploads, allowing users to easily upload and store images within the chat. This integration simplifies the process of managing media content and ensures smooth handling of file uploads.
-  - Utilized **Supabase** for the backend, managing real-time communication, user data, and storage efficiently, providing a robust and scalable solution.
-
-#### 3. **DSA Preparation Sheet(Nakli-code)**
-- **Description:**  
-  A comprehensive preparation sheet for data structures and algorithms (DSA), curated from various sources to assist in DSA preparation. The project allows users to filter questions based on difficulty, company, and tags, and includes a search feature to easily find specific questions.
-- **Tech Stack:**  
-  TypeScript, React
-- **Key Contributions:**  
-  - Curated and organized DSA question data from various sources, providing a centralized resource for practice and preparation.
-  - Implemented filtering options based on difficulty, company, and tags, enabling users to focus on specific types of questions.
-  - Added a search feature to facilitate quick access to particular questions or topics.
-  - Designed an intuitive and user-friendly interface, ensuring a smooth and effective user experience.
-  - Did not prioritize mobile responsiveness, as the primary use case is for desktop-based LeetCode preparation, given the nature of the tool and user behavior.
-
-#### 4. **Case Cobra**
-- **Description:**  
-  An e-commerce site allowing users to customize their phone cases with personal images and other specifications. This project was developed as a practice project based on a YouTube tutorial and showcases functionalities for product customization and online transactions.
-- **Tech Stack:**  
-  Next.js, Neon DB, Stripe
-- **Key Contributions:**  
-  - Implemented a drag-and-drop upload feature to let users easily add their images for custom phone case designs.
-  - Integrated Stripe for secure and efficient payment processing, providing a seamless checkout experience.
-  - Developed a user-friendly interface that allows users to select and customize phone case specifications.
-  - Utilized Neon DB for database management, ensuring efficient handling of user and product data.
-  - Followed a YouTube tutorial for guidance and best practices, gaining practical experience in e-commerce development.
+*Profile views*: ![Profile Views](https://komarev.com/ghpvc/?username=tannijaat&color=blueviolet)
 
 
-### 💡 Why This Account?
-
-This is a temporary account I've set up while my main GitHub account is flagged. I wanted to ensure that my top projects remain accessible, showcasing my work during this period. Please feel free to explore these repositories and get a sense of my skills and experience.
-
-Thank you for visiting!
